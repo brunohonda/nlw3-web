@@ -9,7 +9,7 @@ function Routes() {
         <BrowserRouter>
             <Switch>
                 <Route path="/" component={Landing} exact={true} />
-                <Route path="/app" component={OrphanagesMap} />
+                <Route path="/map" component={OrphanagesMap} />
             </Switch>
         </BrowserRouter>
     );

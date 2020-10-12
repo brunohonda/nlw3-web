@@ -20,7 +20,7 @@ export default function Landing() {
           <span>Minas Gerais</span>
         </div>
 
-        <Link className="enter-app" to="/app">
+        <Link className="enter-app" to="/map">
             <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
         </Link>
       </div>
