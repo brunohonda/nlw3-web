@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 import { FiArrowRight, FiPlus } from 'react-icons/fi';
 import { Map, Marker, Popup, TileLayer } from 'react-leaflet';
 
-import 'leaflet/dist/leaflet.css';
-
 import '../styles/pages/orphanages-map.css';
 import mapMarker from '../images/map-marker.svg';
 import mapIcon from '../utils/mapIcon';
